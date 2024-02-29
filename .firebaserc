@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-f0850": {
+      "hosting": {
+        "da-keep": [
+          "danotes-f0850"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-f0850"
+  }
+}
